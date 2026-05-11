@@ -16,7 +16,7 @@ I love building projects that solve practical problems, exploring emerging techn
 
 ## 🚀 Projects
 
-### 1. 🛒 Amazon Clone
+### 1. 🛒 ShopSphere – Responsive E-Commerce Frontend
 
 A responsive e-commerce frontend inspired by Amazon, built using HTML and CSS.
 
@@ -106,7 +106,9 @@ A Java-based system designed to make complaint registration, tracking, and resol
 ## 🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/megha-verma-1a0730371/
+
 🔗 LeetCode: https://leetcode.com/u/Megha_83/
+
 🔗 GitHub: https://github.com/MeghaVerma-ux
 
 ---
