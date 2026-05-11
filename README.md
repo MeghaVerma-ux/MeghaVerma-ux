@@ -91,8 +91,11 @@ A Java-based system designed to make complaint registration, tracking, and resol
 ## 🏆 Achievements & Participation
 
 ✅ Participated in **Smart India Hackathon (SIH)**
+
 ✅ Participated in **Cybersecurity Hackathon**
+
 ✅ Participated in **TechSprint NCU Hackathon**
+
 ✅ Presented Technical Paper on **National Technology Day**
 
 ---
@@ -100,7 +103,9 @@ A Java-based system designed to make complaint registration, tracking, and resol
 ## 💻 Technical Skills
 
 **Languages:** Java, Python, HTML, CSS
+
 **Concepts:** OOP, Data Structures, APIs, Problem Solving
+
 **Domains:** AI, Machine Learning, Software Development, Cybersecurity
 
 ---
