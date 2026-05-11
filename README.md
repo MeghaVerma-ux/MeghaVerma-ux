@@ -1,7 +1,9 @@
 # Hi there, I'm Megha 👋
 
 🎓 **B.Tech Computer Science Engineering (AI & ML)** Student
+
 💡 Passionate about **Artificial Intelligence, Machine Learning, Software Development, Cybersecurity, and Problem Solving**
+
 🚀 Actively seeking **Internship Opportunities** to learn, build, and contribute to impactful projects
 
 ---
